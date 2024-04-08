@@ -10,3 +10,4 @@ When the user clicks on the check box, the text get strick off, saying that the 
 When the user clicks on the delete icon the todo list item will get removed.
 A Save button is also provided to save the changes done by the user.
 local storage object of todo list items is created when the user clicks on the Save button. Thus this page stores the user changes!!.
+Finally bootstrap is used to make the page responsive.
